@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic programming language
 - 📫 Contact me via gmail: gavrielaldrixh@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=swift&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavrielaldrich&theme=swift&show_icons=true)
 
 <!---
 GavrielAldrich/GavrielAldrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
